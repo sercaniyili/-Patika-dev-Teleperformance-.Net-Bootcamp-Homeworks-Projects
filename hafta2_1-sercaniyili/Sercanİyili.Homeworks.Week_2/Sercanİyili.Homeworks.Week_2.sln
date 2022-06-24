@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregetion.DI", "Sercanİyili.Homeworks.Week_2\InterfaceSegregetion.DI.csproj", "{60B58B5F-E622-4F1E-B7FD-477C9D83F2A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extensions.Attributes", "Extensions.Attributes\Extensions.Attributes.csproj", "{8A4268A9-19AA-4EA2-B6DA-F1E0BE7AF184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60B58B5F-E622-4F1E-B7FD-477C9D83F2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B58B5F-E622-4F1E-B7FD-477C9D83F2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B58B5F-E622-4F1E-B7FD-477C9D83F2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B58B5F-E622-4F1E-B7FD-477C9D83F2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A4268A9-19AA-4EA2-B6DA-F1E0BE7AF184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4268A9-19AA-4EA2-B6DA-F1E0BE7AF184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4268A9-19AA-4EA2-B6DA-F1E0BE7AF184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4268A9-19AA-4EA2-B6DA-F1E0BE7AF184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A14B89CC-57FB-4087-9D52-7070B9ABCDB7}
+	EndGlobalSection
+EndGlobal

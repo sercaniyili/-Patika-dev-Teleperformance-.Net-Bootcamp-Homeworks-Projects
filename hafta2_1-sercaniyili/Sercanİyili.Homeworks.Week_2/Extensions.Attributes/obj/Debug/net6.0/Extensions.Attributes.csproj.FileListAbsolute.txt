@@ -1,0 +1,15 @@
+C:\Users\sercan\Desktop\Bootcamp\Ödevler\2.Hafta\Sercanİyili.Homeworks.Week_2\Extensions.Attributes\obj\Debug\net6.0\Extensions.Attributes.csproj.AssemblyReference.cache
+C:\Users\sercan\Desktop\Bootcamp\Ödevler\2.Hafta\Sercanİyili.Homeworks.Week_2\Extensions.Attributes\obj\Debug\net6.0\Extensions.Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sercan\Desktop\Bootcamp\Ödevler\2.Hafta\Sercanİyili.Homeworks.Week_2\Extensions.Attributes\obj\Debug\net6.0\Extensions.Attributes.AssemblyInfoInputs.cache
+C:\Users\sercan\Desktop\Bootcamp\Ödevler\2.Hafta\Sercanİyili.Homeworks.Week_2\Extensions.Attributes\obj\Debug\net6.0\Extensions.Attributes.AssemblyInfo.cs
+C:\Users\sercan\Desktop\Bootcamp\Ödevler\2.Hafta\Sercanİyili.Homeworks.Week_2\Extensions.Attributes\obj\Debug\net6.0\Extensions.Attributes.csproj.CoreCompileInputs.cache
+C:\Users\sercan\Desktop\Bootcamp\Ödevler\2.Hafta\Sercanİyili.Homeworks.Week_2\Extensions.Attributes\bin\Debug\net6.0\Extensions.Attributes.exe
+C:\Users\sercan\Desktop\Bootcamp\Ödevler\2.Hafta\Sercanİyili.Homeworks.Week_2\Extensions.Attributes\bin\Debug\net6.0\Extensions.Attributes.deps.json
+C:\Users\sercan\Desktop\Bootcamp\Ödevler\2.Hafta\Sercanİyili.Homeworks.Week_2\Extensions.Attributes\bin\Debug\net6.0\Extensions.Attributes.runtimeconfig.json
+C:\Users\sercan\Desktop\Bootcamp\Ödevler\2.Hafta\Sercanİyili.Homeworks.Week_2\Extensions.Attributes\bin\Debug\net6.0\Extensions.Attributes.dll
+C:\Users\sercan\Desktop\Bootcamp\Ödevler\2.Hafta\Sercanİyili.Homeworks.Week_2\Extensions.Attributes\bin\Debug\net6.0\Extensions.Attributes.pdb
+C:\Users\sercan\Desktop\Bootcamp\Ödevler\2.Hafta\Sercanİyili.Homeworks.Week_2\Extensions.Attributes\obj\Debug\net6.0\Extensions.Attributes.dll
+C:\Users\sercan\Desktop\Bootcamp\Ödevler\2.Hafta\Sercanİyili.Homeworks.Week_2\Extensions.Attributes\obj\Debug\net6.0\refint\Extensions.Attributes.dll
+C:\Users\sercan\Desktop\Bootcamp\Ödevler\2.Hafta\Sercanİyili.Homeworks.Week_2\Extensions.Attributes\obj\Debug\net6.0\Extensions.Attributes.pdb
+C:\Users\sercan\Desktop\Bootcamp\Ödevler\2.Hafta\Sercanİyili.Homeworks.Week_2\Extensions.Attributes\obj\Debug\net6.0\Extensions.Attributes.genruntimeconfig.cache
+C:\Users\sercan\Desktop\Bootcamp\Ödevler\2.Hafta\Sercanİyili.Homeworks.Week_2\Extensions.Attributes\obj\Debug\net6.0\ref\Extensions.Attributes.dll
