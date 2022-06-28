@@ -3,7 +3,7 @@
 # Eğitim İçeriği:
 
 Hafta 1:
-
+-
 - .Net Core Giriş
 - API , Rest , RPC Kavramları
 - Design API URLs
@@ -26,7 +26,7 @@ Hafta 1:
  
  
 Hafta 2:
-
+-
 - Extensions kavramı
 - Attribute kullanımı ve reflection
 - Solid design principles
@@ -77,7 +77,7 @@ Hafta 4:
 
 
 Hafta 5:
-
+-
 - BackgroundWorker & Windows Service Windows Services
 - .Net Core BackgroundWorker
 - Haftalık Proje Ödevi
@@ -86,7 +86,7 @@ Hafta 5:
 
 
 Hafta 6:
-
+-
 - Application Tests
 - Uygulama Testleri Ne İşe Yarar, Ne Gibi Çeşitleri Vardır?
 - Temel Test Yöntemleri
@@ -97,7 +97,7 @@ Hafta 6:
 
 
 Hafta 7:
-
+-
 - Güvenlik ve Kimlik Denetiminin Aktifleştirilmesi
 - Sosyal Medya Hesabı ile Giriş
 - Controller Sınıfı Metotlarında Kimlik Kısıtlama
